@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m ./ ../ sort -nf\n
+ls -Fm ./ ../ sort -nf\n
